@@ -1,0 +1,414 @@
+apple /ˈæp.əl/ 苹果: I bought an apple at the airport shop.
+banana /bəˈnɑː.nə/ 香蕉: Bananas are a great travel snack.
+watermelon /ˈwɔː.tərˌmel.ən/ 西瓜: A slice of watermelon is refreshing on a hot day.
+mango /ˈmæŋ.ɡoʊ/ 芒果: Mangoes are sweet and juicy, perfect for summer trips.
+orange /ˈɒr.ɪndʒ/ 橙子: Oranges are rich in vitamin C, great for travel health.
+grapes /ɡreɪps/ 葡萄: Grapes make a convenient and healthy snack.
+cherry /ˈtʃer.i/ 樱桃: Cherries are small but packed with flavor.
+coconut /ˈkəʊ.kə.nʌt/ 椰子: Coconut water is hydrating and refreshing.
+papaya /pəˈpaɪ.ə/ 木瓜: Papayas are tropical fruits with digestive benefits.
+lemon /ˈlem.ən/ 柠檬: Lemons add a tangy flavor to dishes.
+blueberry /ˈbluː.bər.i/ 蓝莓: Blueberries are rich in antioxidants.
+raspberry /ˈrɑːz.bər.i/ 树莓: Raspberries are delicate and sweet.
+strawberry /ˈstrɔː.bər.i/ 草莓: Strawberries are a favorite for many.
+kiwi /ˈkiː.wiː/ 猕猴桃: Kiwis are both delicious and nutritious.
+
+backpack /ˈbæk.pæk/ 背包: A good backpack is essential for any trip.
+sunglasses /ˈsʌnˌɡlɑː.sɪz/ 太阳镜: Protect your eyes with a stylish pair of sunglasses.
+passport /ˈpæs.pɔːrt/ 护照: Always keep your passport safe during international travel.
+luggage /ˈlʌɡ.ɪdʒ/ 行李: Choose durable luggage for long trips.
+first aid kit /fɜːrst eɪd kɪt/ 急救箱: A first aid kit can be a lifesaver on the road.
+bus /bʌs/ 公共汽车: The bus is an affordable way to travel around the city.
+train /treɪn/ 火车: Trains are often faster and more comfortable than buses.
+taxi /ˈtæk.si/ 出租车: Taxis are convenient for short trips.
+airplane /ˈer.plane/ 飞机: Long-distance travel usually requires an airplane.
+bicycle /ˈbaɪ.sɪ.kəl/ 自行车: Renting a bicycle is eco-friendly and fun.
+hotel /hoʊˈtel/ 酒店: We stayed at a luxurious hotel during our vacation.
+hostel /ˈhɒs.təl/ 青年旅舍: Backpackers often choose hostels to save money.
+cabin /ˈkæb.ɪn/ 小木屋: A cabin in the mountains is perfect for a quiet retreat.
+resort /rɪˈzɔːrt/ 度假村: Resorts offer all-inclusive packages for relaxation.
+apartment /əˈpɑːrt.mənt/ 公寓: Renting an apartment is ideal for longer stays.
+
+pizza /ˈpiː.t͡sə/ 披萨: Pizza is a popular choice for travelers in Italy.
+sushi /ˈsuː.ʃiː/ 寿司: Sushi is a must-try when visiting Japan.
+coffee /ˈkɒf.iː/ 咖啡: Start your day with a fresh cup of coffee.
+tea /tiː/ 茶: Tea is a traditional drink in many countries.
+burger /ˈbɜːr.ɡər/ 汉堡: Burgers are a classic fast food choice.
+salad /ˈsæl.əd/ 沙拉: A healthy option for any meal.
+soup /suːp/ 汤: Warm up with a bowl of hearty soup.
+steak /steɪk/ 牛排: Steak is a popular choice for meat lovers.
+scarf /skɑːrf/ 围巾: A scarf can keep you warm in cold weather.
+gloves /ɡlʌvz/ 手套: Gloves protect your hands from the cold.
+umbrella /ʌmˈbrel.ə/ 雨伞: Carry an umbrella for unexpected rain.
+raincoat /ˈreɪn.koʊt/ 雨衣: A raincoat is essential for wet climates.
+smartphone /ˈsmɑːrt.fəʊn/ 智能手机: Stay connected with a reliable smartphone.
+laptop /ˈlæp.tɒp/ 笔记本电脑: A laptop allows you to work while traveling.
+headphones /ˈhed.fəʊnz/ 耳机: Listen to music or podcasts on the go.
+
+camera /ˈkæm.rə/ 相机: Capture memories with a good camera.
+map /mæp/ 地图: A map helps you navigate unfamiliar places.
+notebook /ˈnoʊt.bʊk/ 笔记本: Write down your travel experiences in a notebook.
+power bank /ˈpaʊər bæŋk/ 充电宝: Never run out of phone battery during trips.
+medicine /ˈmed.ɪ.sɪn/ 药品: Carry essential medicines for emergencies.
+mask /mɑːsk/ 口罩: Wearing a mask protects against airborne illnesses.
+hand sanitizer /hænd ˈsæn.ɪ.tə.zaɪ.zər/ 免洗洗手液: Keep your hands clean with sanitizer.
+vitamins /ˈvaɪ.tə.mɪnz/ 维生素: Boost your immune system with vitamins.
+sunscreen /ˈsʌn.skrɪn/ 防晒霜: Apply sunscreen to avoid sunburns.
+Paris /ˈpær.ɪs/ 巴黎: Known as the city of love and lights.
+Tokyo /ˈtoʊ.kjoʊ/ 东京: A vibrant mix of tradition and modernity.
+New York /njuː jɔːrk/ 纽约: The city that never sleeps.
+Sydney /ˈsɪd.niː/ 悉尼: Famous for its iconic opera house.
+Rome /roʊm/ 罗马: Explore ancient history in the heart of Italy.
+
+snorkeling /ˈsnɔːr.kəl.ɪŋ/ 浮潜: Discover underwater beauty while snorkeling.
+surfing /ˈsɜːr.fɪŋ/ 冲浪: Surfing is an exhilarating water sport.
+camping /ˈkæm.pɪŋ/ 露营: Spend a night under the stars while camping.
+ skiing /ˈskiː.ɪŋ/ 滑雪: Hit the slopes for an adrenaline-filled skiing trip.
+diving /ˈdaɪ.vɪŋ/ 潜水: Dive deep to explore marine life up close.
+Eiffel Tower /ˈaɪ.fəl ˈtaʊər/ 埃菲尔铁塔: A symbol of Paris, France.
+Statue of Liberty /ˈstætʃ.uː əv lɪˈbɜːr.tiː/ 自由女神像: An iconic landmark in New York City.
+Great Wall /ɡreɪt wɔːl/ 长城: The Great Wall of China is a marvel of engineering.
+Pyramids /ˈpɪr.ə.mɪdz/ 金字塔: The Pyramids of Egypt hold ancient history.
+Colosseum /kəˈlɒs.ə.məm/ 罗马斗兽场: The Colosseum in Rome reflects ancient Roman architecture.
+elephant /ˈel.ɪ.fənt/ 大象: Elephants are majestic animals often seen in safaris.
+dolphin /ˈdɒl.fɪn/ 海豚: Dolphins are playful creatures found in oceans.
+penguin /ˈpeŋ.gwɪn/ 企鹅: Penguins thrive in cold, icy environments.
+tiger /ˈtaɪ.ɡər/ 老虎: Tigers are powerful and iconic wildlife species.
+kangaroo /ˌkæŋ.ɡəˈruː/ 袋鼠: Kangaroos are native to Australia's wilderness.
+
+plan ahead /plæn əˈhed/ 提前计划: Always plan your itinerary in advance.
+pack light /pæk laɪt/ 轻装上阵: Avoid overpacking to travel more comfortably.
+stay safe /steɪ seɪf/ 保持安全: Keep your belongings secure at all times.
+learn phrases /lɜːrn freɪzɪz/ 学习短语: Knowing basic phrases helps in foreign countries.
+respect culture /rɪˈspekt ˈkʌl.tʃər/ 尊重文化: Be mindful of local customs and traditions.
+cruise /kruːz/ 邮轮: A cruise offers a luxurious way to travel.
+ferry /ˈfer.i/ 渡轮: Ferries connect islands and coastal cities.
+tram /træm/ 有轨电车: Trams are convenient for city exploration.
+subway /ˈsʌb.weɪ/ 地铁: Subways provide fast transportation in urban areas.
+bicycle rental /ˈbaɪ.sɪ.kəl ˈren.təl/ 自行车租赁: Renting a bicycle is eco-friendly and fun.
+pool /puːl/ 泳池: Relax by the hotel pool after a long day.
+gym /dʒɪm/ 健身房: Stay fit by using the hotel gym facilities.
+spa /spɑː/ 水疗中心: Indulge in a spa treatment for relaxation.
+restaurant /ˈres.tə.rɒnt/ 餐厅: Enjoy meals at the hotel's restaurant.
+bar /bɑːr/ 酒吧: Unwind with drinks at the hotel bar.
+
+visa /ˈviː.zə/ 签证: Ensure your visa is valid before traveling.
+ticket /ˈtɪk.ɪt/ 票: Keep your travel tickets safe and handy.
+itinerary /aɪˈtɪn.ər.ər.i/ 行程: Follow your planned itinerary for efficiency.
+passport copy /ˈpæs.pɔːrt ˌkɒp.i/ 护照复印件: Carry a photocopy of your passport for safety.
+travel insurance /ˈtræv.əl ɪnˈʃʊr.əns/ 旅行保险: Protect yourself with travel insurance.
+taco /ˈtɑː.koʊ/ 塔可: Tacos are a popular street food in Mexico.
+sushi roll /ˈsuː.ʃiː roʊl/ 寿司卷: Sushi rolls are an iconic Japanese dish.
+curry /ˈkʌr.iː/ 咖喱: Curry is a flavorful dish found in many cultures.
+dim sum /dɪm sʌm/ 点心: Dim sum is a traditional Chinese brunch option.
+pizza /ˈpiː.t͡sə/ 披萨: Pizza is a popular choice for travelers in Italy.
+lost passport /lɒst ˈpæs.pɔːrt/ 丢失护照: Report a lost passport to your embassy immediately.
+flight delay /flaɪt dɪˈleɪ/ 航班延误: Be prepared for unexpected flight delays.
+medical emergency /ˈmed.ɪ.kəl ɪˈmɜːr.dʒən.si/ 医疗紧急情况: Know the local emergency numbers for medical help.
+weather alert /ˈweð.ər əˈlɜːrt/ 天气警报: Stay informed about weather alerts during trips.
+theft /θeft/ 盗窃: Keep your belongings secure to avoid theft.
+
+pineapple /ˈpaɪ.næp.əl/ 菠萝: Pineapples are exotic fruits often found in tropical destinations.
+mountain /ˈmaʊn.tən/ 山: Climbing the mountain was a thrilling experience.
+beach /biːtʃ/ 海滩: Relaxing at the beach is the perfect way to unwind.
+forest /ˈfɒr.ɪst/ 森林: Exploring the forest reveals hidden natural beauty.
+lake /leɪk/ 湖泊: The lake's clear water was ideal for swimming.
+hiking /ˈhaɪ.kɪŋ/ 徒步旅行: Hiking trails offer breathtaking views of nature.
+orange juice /ˈɒr.ɪndʒ dʒuːs/ 橙汁: Orange juice is a refreshing drink for breakfast.
+grapefruit /ˈɡreɪp.fruːt/ 葡萄柚: Grapefruit is a tangy and healthy fruit option.
+peach /piːtʃ/ 桃子: Peaches are juicy and sweet, perfect for summer.
+plum /plʌm/ 李子: Plums have a unique sweet and tart flavor.
+pear /per/ 梨: Pears are crisp and refreshing as a snack.
+fig /fɪɡ/ 无花果: Figs are often used in Mediterranean dishes.
+pomegranate /ˈpɒm.ɪ.græn.ɪt/ 石榴: Pomegranates are packed with antioxidants.
+avocado /ˌæv.əˈkɑː.doʊ/ 牛油果: Avocados are rich in healthy fats.
+coconut milk /ˈkəʊ.kə.nʌt mɪlk/ 椰奶: Coconut milk adds creaminess to curries.
+
+passport control /ˈpæs.pɔːrt kənˈtrəʊl/ 护照检查: Passport control is a standard procedure at airports.
+currency exchange /ˈkʌr.ən.si ɪksˈtʃeɪndʒ/ 货币兑换: Exchange currency at official counters.
+credit card /ˈkred.ɪt kɑːrd/ 信用卡: Use credit cards for convenience and security.
+budget /ˈbʌdʒ.ɪt/ 预算: Plan a budget to manage travel expenses wisely.
+ATM /ˌeɪ.tiːˈem/ 自动取款机: Withdraw cash from ATMs in local currency.
+tipping /ˈtɪp.ɪŋ/ 小费: Understand tipping customs in different countries.
+spring /sprɪŋ/ 春天: Spring is ideal for blooming landscapes.
+summer /ˈsʌm.ər/ 夏天: Summer offers long days for exploration.
+autumn /ˈɔː.tən/ 秋天: Autumn colors make travel picturesque.
+winter /ˈwɪn.tər/ 冬天: Winter destinations are perfect for snow activities.
+monsoon /mɒnˈsuːn/ 季风: Monsoon season brings lush greenery to some regions.
+paragliding /ˈpær.əˌɡlaɪ.dɪŋ/ 滑翔伞: Soar through the skies with paragliding.
+bungee jumping /ˈbʌn.dʒi ˌdʒʌm.pɪŋ/ 蹦极: Experience adrenaline with bungee jumping.
+rock climbing /rɒk ˈklaɪ.mɪŋ/ 攀岩: Challenge yourself with rock climbing.
+zip lining /zɪp ˈlaɪ.nɪŋ/ 滑索: Zip lining provides thrilling aerial views.
+
+scuba diving /ˈskuː.bə ˌdaɪ.vɪŋ/ 水肺潜水: Discover underwater worlds through scuba diving.
+backpacker /ˈbæk.pæk.ər/ 背包客: A backpacker travels with minimal luggage.
+tourist /ˈtʊr.ɪst/ 游客: Tourists explore popular attractions in new places.
+local guide /ˈloʊ.kəl ɡaɪd/ 当地导游: Hiring a local guide enhances your experience.
+travel blog /ˈtræv.əl blɒɡ/ 旅行博客: Share your adventures through a travel blog.
+postcard /ˈpoʊst.kɑːrd/ 明信片: Send postcards to friends and family as souvenirs.
+cruise ship /kruːz ʃɪp/ 邮轮: A cruise ship offers luxury and entertainment.
+ferry terminal /ˈfer.i ˌtɜːr.mɪ.nəl/ 渡轮码头: Ferry terminals connect islands and coastal cities.
+tram stop /træm stɒp/ 有轨电车站: Tram stops are convenient for city exploration.
+subway station /ˈsʌb.weɪ ˌsteɪ.ʃən/ 地铁站: Subway stations provide fast transportation in urban areas.
+bicycle path /ˈbaɪ.sɪ.kəl pæθ/ 自行车道: Bicycle paths are eco-friendly and fun.
+poolside /ˈpuːl.saɪd/ 泳池边: Relax by the poolside after a long day.
+gym equipment /dʒɪm ɪˈkwɪp.mənt/ 健身器材: Stay fit by using gym equipment.
+spa treatment /spɑː ˈtriːt.mənt/ 水疗: Indulge in spa treatments for relaxation.
+restaurant menu /ˈres.tə.rɒnt ˈmen.juː/ 餐厅菜单: Enjoy meals from the restaurant menu.
+
+visa application /ˈviː.zə ˌæp.lɪˈkeɪ.ʃən/ 签证申请: Ensure your visa application is complete before traveling.
+electronic ticket /ɪˌlekˈtrɒn.ɪk ˈtɪk.ɪt/ 电子票: Keep your electronic tickets safe and handy.
+detailed itinerary /ˈdiː.teɪld aɪˈtɪn.ər.ər.i/ 详细行程: Follow your detailed itinerary for efficiency.
+passport photocopy /ˈpæs.pɔːrt ˈfoʊ.təʊ.kɒp.i/ 护照复印件: Carry a passport photocopy for safety.
+comprehensive insurance /ˌkɒm.prɪˈhen.sɪv ɪnˈʃʊr.əns/ 综合保险: Protect yourself with comprehensive insurance.
+taco stand /ˈtɑː.koʊ stænd/ 塔可摊: Tacos are a popular street food in Mexico.
+sushi chef /ˈsuː.ʃiː tʃef/ 寿司厨师: Sushi chefs prepare iconic Japanese dishes.
+curry house /ˈkʌr.i haʊs/ 咖喱店: Curry houses serve flavorful dishes found in many cultures.
+dim sum restaurant /dɪm sʌm ˈres.tə.rɒnt/ 点心餐厅: Dim sum restaurants offer traditional Chinese brunch options.
+pizza oven /ˈpiː.t͡sə ˈʌv.ən/ 披萨烤箱: Pizza ovens bake popular choices for travelers in Italy.
+lost luggage /lɒst ˈlʌɡ.ɪdʒ/ 丢失行李: Report lost luggage to airline staff immediately.
+flight cancellation /flaɪt ˌkæn.səlˈeɪ.ʃən/ 航班取消: Be prepared for unexpected flight cancellations.
+medical kit /ˈmed.ɪ.kəl kɪt/ 医疗包: Know the contents of your medical kit for emergencies.
+weather forecast /ˈweð.ər ˈfɔː.kɑːst/ 天气预报: Stay informed about weather forecasts during trips.
+theft prevention /θeft prɪˈven.ʃən/ 防盗: Keep your belongings secure to prevent theft.
+
+pineapple pizza /ˈpaɪ.næp.əl ˈpiː.t͡sə/ 菠萝披萨: Pineapple pizza is a controversial but exotic dish.
+mountain range /ˈmaʊn.tən reɪndʒ/ 山脉: Climbing the mountain range was a thrilling experience.
+beach towel /biːtʃ taʊəl/ 海滩毛巾: Relaxing at the beach requires a good beach towel.
+forest trail /ˈfɒr.ɪst treɪl/ 森林小径: Exploring the forest trail reveals hidden natural beauty.
+lake shore /leɪk ʃɔːr/ 湖滨: The lake shore's clear water was ideal for swimming.
+hiking boots /ˈhaɪ.kɪŋ buːts/ 徒步靴: Hiking boots offer support for long trails.
+orange peel /ˈɒr.ɪndʒ piːl/ 橙皮: Orange peel can be used in cooking or as a garnish.
+grapefruit juice /ˈɡreɪp.fruːt dʒuːs/ 葡萄柚汁: Grapefruit juice is a tangy and healthy drink option.
+peach cobbler /piːtʃ ˈkɒb.lər/ 桃子馅饼: Peaches are baked into a cobbler for a sweet dessert.
+plum jam /plʌm dʒæm/ 李子酱: Plum jam is a unique sweet and tart spread.
+pear tart /per tɑːrt/ 梨挞: Pears are baked into a tart for a crisp dessert.
+fig salad /fɪɡ ˈsæl.əd/ 无花果沙拉: Figs add sweetness to a fresh salad.
+pomegranate seeds /ˈpɒm.ɪ.græn.ɪt siːdz/ 石榴籽: Pomegranate seeds are packed with antioxidants.
+avocado toast /ˌæv.əˈkɑː.doʊ toʊst/ 牛油果吐司: Avocado toast is rich in healthy fats.
+coconut curry /ˈkəʊ.kə.nʌt ˈkʌr.iː/ 椰奶咖喱: Coconut curry adds creaminess to dishes.
+
+passport renewal /ˈpæs.pɔːrt rɪˈnjuː.əl/ 护照续签: Passport renewal is necessary before expiration.
+currency rate /ˈkʌr.ən.si reɪt/ 汇率: Check currency rates before exchanging money.
+credit limit /ˈkred.ɪt ˈlɪm.ɪt/ 信用额度: Use credit cards within your credit limit for security.
+budget plan /ˈbʌdʒ.ɪt plæn/ 预算计划: Plan a budget to manage travel expenses wisely.
+ATM location /ˌeɪ.tiːˈem loʊˈkeɪ.ʃən/ ATM位置: Withdraw cash from ATMs at secure locations.
+tipping culture /ˈtɪp.ɪŋ ˈkʌl.tʃər/ 小费文化: Understand tipping culture in different countries.
+spring flowers /sprɪŋ ˈflaʊ.ərz/ 春天的花: Spring flowers bloom beautifully in gardens.
+summer heat /ˈsʌm.ər hiːt/ 夏天的炎热: Summer heat requires staying hydrated during exploration.
+autumn leaves /ˈɔː.tən liːvz/ 秋天的树叶: Autumn leaves change colors, making travel picturesque.
+winter coat /ˈwɪn.tər koʊt/ 冬天的外套: Winter coats are essential for cold destinations.
+monsoon rain /mɒnˈsuːn reɪn/ 季风降雨: Monsoon rain brings lush greenery to tropical regions.
+paragliding gear /ˈpær.əˌɡlaɪ.dɪŋ ɡɪər/ 滑翔伞装备: Soar through the skies with proper paragliding gear.
+bungee cord /ˈbʌn.dʒi kɔːrd/ 蹦极绳: Experience adrenaline with a secure bungee cord.
+rock formation /rɒk fɔːrˈmeɪ.ʃən/ 岩石构造: Challenge yourself by climbing unique rock formations.
+zip line /zɪp laɪn/ 滑索线: Zip lines provide thrilling aerial views of landscapes.
+
+scuba gear /ˈskuː.bə ɡɪər/ 潜水装备: Discover underwater worlds with proper scuba gear.
+backpacking tent /ˈbæk.pæk.ɪŋ tent/ 徒步旅行帐篷: A backpacking tent is essential for camping trips.
+tourist attraction /ˈtʊr.ɪst əˈtræk.ʃən/ 旅游景点: Tourists explore popular attractions in new destinations.
+local cuisine /ˈloʊ.kəl kwɪˈziːn/ 当地美食: Hiring a local guide enhances your experience with local cuisine.
+travel journal /ˈtræv.əl ˈdʒɜːr.nəl/ 旅行日志: Share your adventures through a detailed travel journal.
+postcard stamp /ˈpoʊst.kɑːrd stæmp/ 明信片邮票: Send postcards to friends and family with proper stamps.
+cruise terminal /kruːz ˈtɜːr.mɪ.nəl/ 邮轮码头: A cruise terminal offers luxury and entertainment options.
+ferry schedule /ˈfer.i ˈʃed.juːl/ 渡轮时刻表: Ferry schedules connect islands and coastal cities efficiently.
+tram route /træm ruːt/ 有轨电车路线: Tram routes are convenient for city exploration.
+subway map /ˈsʌb.weɪ mæp/ 地铁地图: Subway maps provide fast transportation guidance in urban areas.
+bicycle lock /ˈbaɪ.sɪ.kəl lɒk/ 自行车锁: Bicycle locks ensure security on bike paths.
+pool towel /ˈpuːl taʊəl/ 泳池毛巾: Relax by the pool with a comfortable pool towel.
+gym membership /dʒɪm məmˈber.ʃɪp/ 健身房会员: Stay fit with a gym membership during travel.
+spa package /spɑː ˈpæk.ɪdʒ/ 水疗套餐: Indulge in spa packages for relaxation.
+restaurant reservation /ˈres.tə.rɒnt ˌrez.ərˈveɪ.ʃən/ 餐厅预订: Enjoy meals with a confirmed restaurant reservation.
+
+visa policy /ˈviː.zə ˈpɒl.ɪ.si/ 签证政策: Ensure your visa policy knowledge is up-to-date before traveling.
+electronic visa /ɪˌlekˈtrɒn.ɪk ˈviː.zə/ 电子签证: Electronic visas simplify the entry process.
+detailed map /ˈdiː.teɪld mæp/ 详细地图: Follow your detailed map for efficient navigation.
+passport validity /ˈpæs.pɔːrt vəˈlɪd.ɪ.ti/ 护照有效期: Carry a passport with sufficient validity for safety.
+comprehensive coverage /ˌkɒm.prɪˈhen.sɪv ˈkʌv.ər.ɪdʒ/ 综合保险覆盖: Protect yourself with comprehensive insurance coverage.
+taco seasoning /ˈtɑː.koʊ ˈsiː.zən.ɪŋ/ 塔可调味料: Tacos are seasoned to enhance their flavor in Mexican cuisine.
+sushi rice /ˈsuː.ʃiː raɪs/ 寿司米: Sushi rice is prepared by skilled chefs for iconic dishes.
+curry spice /ˈkʌr.iː spaɪs/ 咖喱香料: Curry spices serve flavorful dishes found in many cultures.
+dim sum basket /dɪm sʌm ˈbæs.kɪt/ 点心篮: Dim sum baskets offer traditional Chinese brunch options.
+pizza topping /ˈpiː.t͡sə ˈtɒp.ɪŋ/ 披萨配料: Pizza toppings bake popular choices for travelers in Italy.
+lost item /lɒst ˈaɪ.təm/ 丢失物品: Report lost items to staff immediately.
+flight schedule /flaɪt ˈʃed.juːl/ 航班时刻表: Be prepared for unexpected changes in flight schedules.
+medical assistance /ˈmed.ɪ.kəl əˈsɪs.tən.sɪ/ 医疗援助: Know where to seek medical assistance during emergencies.
+weather update /ˈweð.ər ʌpˈdeɪt/ 天气更新: Stay informed about weather updates during trips.
+theft report /θeft rɪˈpɔːrt/ 盗窃报告: Keep your belongings secure and file a theft report if needed.
+
+pineapple juice /ˈpaɪ.næp.əl dʒuːs/ 菠萝汁: Pineapple juice is an exotic and refreshing drink.
+mountain peak /ˈmaʊn.tən piːk/ 山峰: Climbing the mountain peak offers breathtaking views.
+beach umbrella /biːtʃ ʌmˈbrel.ə/ 海滩伞: Relaxing at the beach is more comfortable with a beach umbrella.
+forest ranger /ˈfɒr.ɪst ˈreɪn.dʒər/ 森林护林员: Exploring the forest is safer with guidance from a forest ranger.
+lake fishing /leɪk ˈfɪʃ.ɪŋ/ 湖泊钓鱼: Lake fishing provides relaxation and a chance to catch fish.
+hiking trail /ˈhaɪ.kɪŋ treɪl/ 徒步小径: Hiking trails offer scenic routes through nature.
+orange slice /ˈɒr.ɪndʒ slaɪs/ 橙片: Orange slices are a refreshing snack or garnish.
+grapefruit salad /ˈɡreɪp.fruːt ˈsæl.əd/ 葡萄柚沙拉: Grapefruit salad is tangy and healthy.
+peach smoothie /piːtʃ ˈsmuːð.iː/ 桃子冰沙: Peach smoothies are sweet and refreshing.
+plum pudding /plʌm ˈpʊd.ɪŋ/ 李子布丁: Plum pudding is a traditional holiday dessert.
+pear juice /per dʒuːs/ 梨汁: Pear juice is crisp and hydrating.
+fig jam /fɪɡ dʒæm/ 无花果酱: Fig jam adds sweetness to toast or desserts.
+pomegranate juice /ˈpɒm.ɪ.græn.ɪt dʒuːs/ 石榴汁: Pomegranate juice is packed with antioxidants.
+avocado salad /ˌæv.əˈkɑː.doʊ ˈsæl.əd/ 牛油果沙拉: Avocado salad is rich in healthy fats.
+coconut rice /ˈkəʊ.kə.nʌt raɪs/ 椰奶饭: Coconut rice is creamy and flavorful.
+
+passport photo /ˈpæs.pɔːrt ˌfoʊ.təʊ/ 护照照片: Passport photos are required for visa applications.
+currency converter /ˈkʌr.ən.si kənˈvɜːr.tər/ 货币转换器: Use a currency converter to check exchange rates.
+credit score /ˈkred.ɪt skɔːr/ 信用评分: Maintain a good credit score for financial security.
+budget tracking /ˈbʌdʒ.ɪt ˈtræk.ɪŋ/ 预算跟踪: Track your budget to manage travel expenses wisely.
+ATM fee /ˌeɪ.tiːˈem fiː/ ATM手续费: Withdraw cash from ATMs with low fees.
+tipping etiquette /ˈtɪp.ɪŋ ˈet.ɪ.kət/ 小费礼仪: Understand tipping etiquette in different countries.
+spring break /sprɪŋ breɪk/ 春假: Spring break is ideal for short trips.
+summer vacation /ˈsʌm.ər vəˈkeɪ.ʃən/ 暑假: Summer vacations offer long days for exploration.
+autumn festival /ˈɔː.tən ˈfes.tɪ.vəl/ 秋天的节日: Autumn festivals celebrate harvests and cultural traditions.
+winter sports /ˈwɪn.tər spɔːrts/ 冬季运动: Winter sports destinations are perfect for snow activities.
+monsoon season /mɒnˈsuːn ˈsiː.zən/ 季风季节: Monsoon season brings lush greenery to tropical regions.
+paragliding instructor /ˈpær.əˌɡlaɪ.dɪŋ ɪnˈstrʌk.tər/ 滑翔伞教练: Soar through the skies with guidance from a paragliding instructor.
+bungee jumping spot /ˈbʌn.dʒi ˌdʒʌm.pɪŋ spɒt/ 蹦极地点: Experience adrenaline at popular bungee jumping spots.
+rock climbing wall /rɒk ˈklaɪ.mɪŋ wɔːl/ 攀岩墙: Challenge yourself on indoor rock climbing walls.
+zip line adventure /zɪp laɪn ədˈven.tʃər/ 滑索冒险: Zip line adventures provide thrilling aerial views.
+
+scuba certification /ˈskuː.bə ˌsɜːr.tɪ.fɪˈkeɪ.ʃən/ 潜水认证: Obtain scuba certification to explore underwater worlds.
+backpacking gear /ˈbæk.pæk.ɪŋ ɡɪər/ 徒步旅行装备: Backpacking gear is essential for long trips.
+tourist visa /ˈtʊr.ɪst ˈviː.zə/ 旅游签证: Tourists need a valid tourist visa for international travel.
+local market /ˈloʊ.kəl ˈmɑːr.kɪt/ 当地市场: Explore local markets to experience authentic culture.
+travel itinerary /ˈtræv.əl aɪˈtɪn.ər.ər.i/ 旅行行程: Plan a detailed travel itinerary for efficiency.
+postcard stamp /ˈpoʊst.kɑːrd stæmp/ 明信片邮票: Send postcards with proper stamps as souvenirs.
+cruise schedule /kruːz ˈʃed.juːl/ 邮轮时刻表: A cruise schedule offers luxury and entertainment options.
+ferry ticket /ˈfer.i ˈtɪk.ɪt/ 渡轮票: Ferry tickets connect islands and coastal cities efficiently.
+tram ticket /træm ˈtɪk.ɪt/ 有轨电车票: Tram tickets are convenient for city exploration.
+subway fare /ˈsʌb.weɪ feər/ 地铁票价: Subway fares provide affordable transportation in urban areas.
+bicycle rental shop /ˈbaɪ.sɪ.kəl ˈren.təl ʃɒp/ 自行车租赁店: Rent bicycles from shops for eco-friendly travel.
+pool float /ˈpuːl floʊt/ 泳池浮具: Relax by the pool with a comfortable pool float.
+gym trainer /dʒɪm ˈtreɪ.nər/ 健身房教练: Stay fit with guidance from a gym trainer during travel.
+spa massage /spɑː məˈsɑːʒ/ 水疗按摩: Indulge in spa massages for relaxation.
+restaurant menu /ˈres.tə.rɒnt ˈmen.juː/ 餐厅菜单: Enjoy meals from diverse restaurant menus.
+
+visa extension /ˈviː.zə ɪkˈsten.ʃən/ 签证延期: Apply for a visa extension if your stay is longer than expected.
+electronic passport /ɪˌlekˈtrɒn.ɪk ˈpæs.pɔːrt/ 电子护照: Electronic passports enhance security during travel.
+detailed guidebook /ˈdiː.teɪld ˈɡaɪd.bʊk/ 详细指南: Follow a detailed guidebook for efficient navigation.
+passport renewal fee /ˈpæs.pɔːrt rɪˈnjuː.əl fiː/ 护照续签费: Pay the passport renewal fee before expiration.
+comprehensive policy /ˌkɒm.prɪˈhen.sɪv ˈpɒl.ɪ.si/ 综合保险政策: Protect yourself with a comprehensive insurance policy.
+taco sauce /ˈtɑː.koʊ sɔːs/ 塔可酱: Tacos are enhanced with flavorful taco sauce in Mexican cuisine.
+sushi vinegar /ˈsuː.ʃiː ˈvɪn.ɪ.ɡər/ 寿司醋: Sushi vinegar is essential for preparing iconic dishes.
+curry paste /ˈkʌr.iː peɪst/ 咖喱酱: Curry paste serves as the base for flavorful dishes in many cultures.
+dim sum steamer /dɪm sʌm ˈstiː.mər/ 点心蒸笼: Dim sum steamers offer traditional Chinese brunch options.
+pizza cutter /ˈpiː.t͡sə ˈkʌt.ər/ 披萨刀: Pizza cutters make it easy to slice popular choices.
+lost passport report /lɒst ˈpæs.pɔːrt rɪˈpɔːrt/ 丢失护照报告: Report a lost passport immediately to authorities.
+flight delay compensation /flaɪt dɪˈleɪ ˌkɒm.pənˈseɪ.ʃən/ 航班延误赔偿: Be prepared to claim compensation for unexpected flight delays.
+medical assistance hotline /ˈmed.ɪ.kəl əˈsɪs.tən.sɪ ˈhɒt.laɪn/ 医疗援助热线: Know the medical assistance hotline number for emergencies.
+weather warning /ˈweð.ər ˈwɔːr.nɪŋ/ 天气预警: Stay informed about weather warnings during trips.
+theft prevention tips /θeft prɪˈven.ʃən tɪps/ 防盗提示: Keep your belongings secure with theft prevention tips.
+
+pineapple tart /ˈpaɪ.næp.əl tɑːrt/ 菠萝挞: Pineapple tarts are a popular dessert in tropical destinations.
+mountain hiking /ˈmaʊn.tən ˈhaɪ.kɪŋ/ 山地徒步: Hiking in the mountains offers breathtaking views of nature.
+beach volleyball /biːtʃ ˈvɒl.i.bɔːl/ 沙滩排球: Playing beach volleyball is a fun way to enjoy the outdoors.
+forest camping /ˈfɒr.ɪst ˈkæm.pɪŋ/ 森林露营: Camping in the forest provides an immersive natural experience.
+lake fishing rod /leɪk ˈfɪʃ.ɪŋ rɒd/ 湖泊钓鱼竿: Lake fishing rods help you catch fish during relaxation.
+hiking backpack /ˈhaɪ.kɪŋ ˈbæk.pæk/ 徒步背包: A hiking backpack is essential for carrying gear on trails.
+orange marmalade /ˈɒr.ɪndʒ ˈmɑːr.mə.leɪd/ 橙子果酱: Orange marmalade is a classic spread for breakfast.
+grapefruit peel /ˈɡreɪp.fruːt piːl/ 葡萄柚皮: Grapefruit peel can be used in cooking or as a garnish.
+peach jam /piːtʃ dʒæm/ 桃子酱: Peach jam adds sweetness to toast or desserts.
+plum tart /plʌm tɑːrt/ 李子挞: Plum tarts are a unique sweet and tart dessert option.
+pear pie /per paɪ/ 梨派: Pear pies are crisp and refreshing as a dessert.
+fig tart /fɪɡ tɑːrt/ 无花果挞: Fig tarts add sweetness to any meal.
+pomegranate salad /ˈpɒm.ɪ.græn.ɪt ˈsæl.əd/ 石榴沙拉: Pomegranate salads are packed with antioxidants.
+avocado smoothie /ˌæv.əˈkɑː.doʊ ˈsmuːð.iː/ 牛油果冰沙: Avocado smoothies are rich in healthy fats.
+coconut milkshake /ˈkəʊ.kə.nʌt ˈmɪlk.ʃeɪk/ 椰奶奶昔: Coconut milkshakes are creamy and flavorful.
+
+passport renewal application /ˈpæs.pɔːrt rɪˈnjuː.əl ˌæp.lɪˈkeɪ.ʃən/ 护照续签申请: Submit your passport renewal application before expiration.
+currency exchange office /ˈkʌr.ən.si ɪksˈtʃeɪndʒ ˈɒf.ɪs/ 货币兑换处: Exchange currency at official exchange offices.
+credit card limit /ˈkred.ɪt kɑːrd ˈlɪm.ɪt/ 信用卡限额: Use credit cards within your credit card limit for security.
+budget tracking app /ˈbʌdʒ.ɪt ˈtræk.ɪŋ æp/ 预算跟踪应用: Track your budget with a reliable budget tracking app.
+ATM withdrawal limit /ˌeɪ.tiːˈem wɪðˈdrɔː.əl ˈlɪm.ɪt/ ATM取款限额: Withdraw cash from ATMs within the withdrawal limit.
+tipping percentage /ˈtɪp.ɪŋ pərˈsen.tɪdʒ/ 小费百分比: Understand tipping percentages in different countries.
+spring season /sprɪŋ ˈsiː.zən/ 春季: Spring season is ideal for blooming landscapes.
+summer festival /ˈsʌm.ər ˈfes.tɪ.vəl/ 夏季节日: Summer festivals offer long days for exploration.
+autumn harvest /ˈɔː.tən ˈhɑːr.vɪst/ 秋天的收获: Autumn harvests make travel picturesque.
+winter vacation /ˈwɪn.tər vəˈkeɪ.ʃən/ 冬季假期: Winter vacations are perfect for snow activities.
+monsoon climate /mɒnˈsuːn ˈklaɪ.mət/ 季风气候: Monsoon climates bring lush greenery to tropical regions.
+paragliding adventure /ˈpær.əˌɡlaɪ.dɪŋ ədˈven.tʃər/ 滑翔伞冒险: Soar through the skies with thrilling paragliding adventures.
+bungee jumping experience /ˈbʌn.dʒi ˌdʒʌm.pɪŋ ɪkˈspɪər.i.əns/ 蹦极体验: Experience adrenaline with unforgettable bungee jumping.
+rock climbing experience /rɒk ˈklaɪ.mɪŋ ɪkˈspɪər.i.əns/ 攀岩体验: Challenge yourself with exciting rock climbing experiences.
+zip line tour /zɪp laɪn tʊr/ 滑索之旅: Zip line tours provide thrilling aerial views of landscapes.
+
+scuba diving certification /ˈskuː.bə ˌdaɪ.vɪŋ ˌsɜːr.tɪ.fɪˈkeɪ.ʃən/ 水肺潜水认证: Obtain scuba diving certification to explore underwater worlds.
+backpacking adventure /ˈbæk.pæk.ɪŋ ədˈven.tʃər/ 徒步冒险: Backpacking adventures are essential for long trips.
+tourist destination /ˈtʊr.ɪst ˌdes.tɪˈneɪ.ʃən/ 旅游目的地: Tourists visit popular tourist destinations in new places.
+local transportation /ˈloʊ.kəl ˌtræn.spɔːrˈteɪ.ʃən/ 当地交通: Explore local transportation options to experience authentic culture.
+travel insurance policy /ˈtræv.əl ɪnˈʃʊr.əns ˈpɒl.ɪ.si/ 旅行保险政策: Plan a detailed travel insurance policy for efficiency.
+postcard collection /ˈpoʊst.kɑːrd kəˈlek.ʃən/ 明信片收藏: Send postcards as souvenirs and start a postcard collection.
+cruise ship entertainment /kruːz ʃɪp ˌen.tərˈteɪn.mənt/ 邮轮娱乐: A cruise ship offers luxury and diverse entertainment options.
+ferry terminal location /ˈfer.i ˈtɜːr.mɪ.nəl loʊˈkeɪ.ʃən/ 渡轮码头位置: Ferry terminals connect islands and coastal cities efficiently.
+tram stop location /træm stɒp loʊˈkeɪ.ʃən/ 有轨电车站位置: Tram stops are convenient for city exploration.
+subway station map /ˈsʌb.weɪ ˌsteɪ.ʃən mæp/ 地铁站地图: Subway station maps provide fast transportation guidance in urban areas.
+bicycle rental service /ˈbaɪ.sɪ.kəl ˈren.təl ˈsɜːr.vɪs/ 自行车租赁服务: Rent bicycles from services for eco-friendly travel.
+poolside bar /ˈpuːl.saɪd bɑːr/ 泳池酒吧: Relax by the poolside with a drink from the bar.
+gym membership plan /dʒɪm məmˈber.ʃɪp plæn/ 健身房会员计划: Stay fit with a gym membership plan during travel.
+spa treatment package /spɑː ˈtriːt.mənt ˈpæk.ɪdʒ/ 水疗套餐: Indulge in spa treatment packages for relaxation.
+restaurant reservation system /ˈres.tə.rɒnt ˌrez.ərˈveɪ.ʃən ˈsɪs.təm/ 餐厅预订系统: Enjoy meals with a confirmed restaurant reservation system.
+
+visa application process /ˈviː.zə ˌæp.lɪˈkeɪ.ʃən ˈprɒs.es/ 签证申请流程: Ensure your visa application process is complete before traveling.
+electronic ticket system /ɪˌlekˈtrɒn.ɪk ˈtɪk.ɪt ˈsɪs.təm/ 电子票系统: Electronic ticket systems simplify travel arrangements.
+detailed itinerary plan /ˈdiː.teɪld aɪˈtɪn.ər.ər.i plæn/ 详细行程计划: Follow your detailed itinerary plan for efficiency.
+passport renewal service /ˈpæs.pɔːrt rɪˈnjuː.əl ˈsɜːr.vɪs/ 护照续签服务: Passport renewal services ensure safety during travel.
+comprehensive travel insurance /ˌkɒm.prɪˈhen.sɪv ˈtræv.əl ɪnˈʃʊr.əns/ 综合旅行保险: Protect yourself with comprehensive travel insurance coverage.
+taco seasoning mix /ˈtɑː.koʊ ˈsiː.zən.ɪŋ mɪks/ 塔可调味料混合物: Tacos are seasoned with flavorful taco seasoning mixes in Mexican cuisine.
+sushi vinegar rice /ˈsuː.ʃiː ˈvɪn.ɪ.ɡər raɪs/ 寿司醋米: Sushi vinegar rice is prepared by skilled chefs for iconic dishes.
+curry spice blend /ˈkʌr.iː spaɪs blend/ 咖喱香料混合物: Curry spice blends serve flavorful dishes found in many cultures.
+dim sum steamer basket /dɪm sʌm ˈstiː.mər ˈbæs.kɪt/ 点心蒸笼篮: Dim sum steamer baskets offer traditional Chinese brunch options.
+pizza topping variety /ˈpiː.t͡sə ˈtɒp.ɪŋ vəˈraɪ.ə.ti/ 披萨配料种类: Pizza topping varieties bake popular choices for travelers in Italy.
+lost luggage claim /lɒst ˈlʌɡ.ɪdʒ kleɪm/ 丢失行李索赔: Report lost luggage and file a claim immediately.
+flight cancellation policy /flaɪt ˌkæn.səlˈeɪ.ʃən ˈpɒl.ɪ.si/ 航班取消政策: Be prepared for unexpected flight cancellations with clear policies.
+medical assistance service /ˈmed.ɪ.kəl əˈsɪs.tən.sɪ ˈsɜːr.vɪs/ 医疗援助服务: Know where to seek medical assistance services during emergencies.
+weather update notification /ˈweð.ər ʌpˈdeɪt nəʊ.tɪ.fɪˈkeɪ.ʃən/ 天气更新通知: Stay informed about weather update notifications during trips.
+theft prevention strategy /θeft prɪˈven.ʃən ˈstræt.ə.dʒi/ 防盗策略: Keep your belongings secure with effective theft prevention strategies.
+
+pineapple smoothie /ˈpaɪ.næp.əl ˈsmuːð.iː/ 菠萝冰沙: Pineapple smoothies are exotic and refreshing drinks.
+mountain hiking trail /ˈmaʊn.tən ˈhaɪ.kɪŋ treɪl/ 山地徒步小径: Hiking trails in the mountains offer breathtaking views of nature.
+beach volleyball net /biːtʃ ˈvɒl.i.bɔːl net/ 沙滩排球网: Playing beach volleyball is more fun with a proper net.
+forest camping tent /ˈfɒr.ɪst ˈkæm.pɪŋ tent/ 森林露营帐篷: Camping tents provide shelter during forest adventures.
+lake fishing boat /leɪk ˈfɪʃ.ɪŋ boʊt/ 湖泊钓鱼船: Lake fishing boats help you catch fish during relaxation.
+hiking backpack strap /ˈhaɪ.kɪŋ ˈbæk.pæk stræp/ 徒步背包带: Backpack straps are essential for carrying gear comfortably on trails.
+orange marmalade toast /ˈɒr.ɪndʒ ˈmɑːr.mə.leɪd toʊst/ 橙子果酱吐司: Orange marmalade toast is a classic breakfast option.
+grapefruit juice glass /ˈɡreɪp.fruːt dʒuːs glɑːs/ 葡萄柚汁杯: Grapefruit juice glasses enhance your tangy drink experience.
+peach jam jar /piːtʃ dʒæm dʒɑːr/ 桃子酱罐: Peach jam jars add sweetness to toast or desserts.
+plum tart crust /plʌm tɑːrt krʌst/ 李子挞皮: Plum tart crusts are a unique sweet and tart dessert base.
+pear pie filling /per paɪ ˈfɪl.ɪŋ/ 梨派馅料: Pear pie fillings are crisp and refreshing as a dessert.
+fig tart crust /fɪɡ tɑːrt krʌst/ 无花果挞皮: Fig tart crusts add sweetness to any meal.
+pomegranate salad bowl /ˈpɒm.ɪ.græn.ɪt ˈsæl.əd boʊl/ 石榴沙拉碗: Pomegranate salad bowls are packed with antioxidants.
+avocado smoothie cup /ˌæv.əˈkɑː.doʊ ˈsmuːð.iː kʌp/ 牛油果冰沙杯: Avocado smoothie cups are rich in healthy fats.
+coconut milkshake glass /ˈkəʊ.kə.nʌt ˈmɪlk.ʃeɪk glɑːs/ 椰奶奶昔杯: Coconut milkshake glasses are creamy and flavorful.
+
+passport renewal process /ˈpæs.pɔːrt rɪˈnjuː.əl ˈprɒs.es/ 护照续签流程: Submit your passport renewal process before expiration.
+currency exchange rate /ˈkʌr.ən.si ɪksˈtʃeɪndʒ reɪt/ 货币汇率: Check currency exchange rates before traveling.
+credit card usage /ˈkred.ɪt kɑːrd ˈjuː.sɪdʒ/ 信用卡使用: Use credit cards securely for all your travel needs.
+budget tracking system /ˈbʌdʒ.ɪt ˈtræk.ɪŋ ˈsɪs.təm/ 预算跟踪系统: Track your budget with an efficient tracking system.
+ATM withdrawal fee /ˌeɪ.tiːˈem wɪðˈdrɔː.əl fiː/ ATM取款费用: Withdraw cash from ATMs with minimal fees.
+tipping culture guide /ˈtɪp.ɪŋ ˈkʌl.tʃər ɡaɪd/ 小费文化指南: Understand tipping culture with a detailed guide.
+spring season flowers /sprɪŋ ˈsiː.zən ˈflaʊ.ərz/ 春季花朵: Spring season flowers bloom beautifully in gardens.
+summer festival celebration /ˈsʌm.ər ˈfes.tɪ.vəl ˌsel.ɪˈbreɪ.ʃən/ 夏季节日庆祝: Summer festival celebrations offer long days for exploration.
+autumn harvest festival /ˈɔː.tən ˈhɑːr.vɪst ˈfes.tɪ.vəl/ 秋天收获节: Autumn harvest festivals make travel picturesque.
+winter vacation activities /ˈwɪn.tər vəˈkeɪ.ʃən ækˈtɪv.ɪ.tiz/ 冬季假期活动: Winter vacation activities are perfect for snow sports.
+monsoon climate zone /mɒnˈsuːn ˈklaɪ.mət zoʊn/ 季风气候区: Monsoon climate zones bring lush greenery to tropical regions.
+paragliding adventure tour /ˈpær.əˌɡlaɪ.dɪŋ ədˈven.tʃər tʊr/ 滑翔伞冒险之旅: Soar through the skies with thrilling paragliding adventure tours.
+bungee jumping location /ˈbʌn.dʒi ˌdʒʌm.pɪŋ loʊˈkeɪ.ʃən/ 蹦极地点: Experience adrenaline at popular bungee jumping locations.
+rock climbing experience package /rɒk ˈklaɪ.mɪŋ ɪkˈspɪər.i.əns ˈpæk.ɪdʒ/ 攀岩体验套餐: Challenge yourself with exciting rock climbing experience packages.
+zip line adventure tour /zɪp laɪn ədˈven.tʃər tʊr/ 滑索冒险之旅: Zip line adventure tours provide thrilling aerial views of landscapes.
+
+souvenir /suː.vəˈnɪr/ 纪念品: A souvenir is a great way to remember your trip.
+landmark /ˈlænd.mɑːrk/ 地标: Visit famous landmarks in each city you explore.
+currency /ˈkʌr.ən.si/ 货币: Exchange currency at the airport for convenience.
+passenger /ˈpæs.ɪndʒər/ 乘客: Passengers board the plane in an orderly fashion.
+luggage /ˈlʌɡ.ɪdʒ/ 行李: Always keep your luggage secure during travel.
+reservation /ˌrez.ərˈveɪ.ʃən/ 预订: Make a reservation at your favorite restaurant.
+accommodation /əˌkɒm.əˈdeɪ.ʃən/ 住宿: Book accommodation in advance for your trip.
+transportation /ˌtræn.spɔːrˈteɪ.ʃən/ 交通: Use public transportation to save money.
+vacation /vəˈkeɪ.ʃən/ 假期: Plan your vacation carefully to maximize enjoyment.
+holiday /ˈhɒl.ɪ.deɪ/ 假日: Holidays are perfect for relaxing and unwinding.
+sightseeing /ˈsaɪtˌsiː.ɪŋ/ 观光: Go sightseeing to discover hidden gems in the city.
+passport /ˈpæs.pɔːrt/ 护照: Carry your passport at all times while traveling abroad.
+visa /ˈviː.zə/ 签证: Apply for a visa well in advance of your trip.
+tourist /ˈtʊr.ɪst/ 游客: Tourists flock to popular destinations in summer.
+traveler /ˈtræv.ələr/ 旅行者: A seasoned traveler always carries a first aid kit.
+
