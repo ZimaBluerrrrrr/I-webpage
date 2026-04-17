@@ -1,0 +1,115 @@
+1.跳转链接
+
+参数：
+url?token=XXXXXXXXXXXXX
+token的值为入参JSON格式字符串AES加密后的密文
+
+AES key：
+测试环境key=9pdPHcfudMMwlHfWRR1DfALn71XlLc+oAnMMr168x6M=
+生产环境key=riZmtzdBJBPrx4XZ+NwFQC/GUqAkoV6FV4q7mHUwaMk=
+
+
+加解密方法：
+
+    private static final String TRANSFORMATION = "AES/GCM/NoPadding";
+    private static final int TAG_LENGTH_BITS = 128;
+    private static final int NONCE_LENGTH_BYTES = 12;
+    // SecureRandom 是线程安全的，可复用
+    private static final SecureRandom SECURE_RANDOM = new SecureRandom();
+
+    /**
+     * 加密方法
+     * @param plaintext 明文字符串
+     * @param base64Key Base64 编码的对称密钥
+     * @return Base64 编码的密文载荷 (Nonce+CipherText+Tag)
+     */
+    public static String encrypt(String plaintext, String base64Key) {
+        validateKey(base64Key);
+        try {
+            byte[] key = java.util.Base64.getDecoder().decode(base64Key);
+            SecretKeySpec keySpec = new SecretKeySpec(key, "AES");
+
+            // 1. 生成密码学安全的随机 Nonce (12字节)
+            byte[] nonce = new byte[NONCE_LENGTH_BYTES];
+            SECURE_RANDOM.nextBytes(nonce);
+
+            // 2. 初始化加密 Cipher
+            Cipher cipher = Cipher.getInstance(TRANSFORMATION);
+            GCMParameterSpec gcmSpec = new GCMParameterSpec(TAG_LENGTH_BITS, nonce);
+            cipher.init(Cipher.ENCRYPT_MODE, keySpec, gcmSpec);
+
+            // 3. 执行加密 (Java GCM 会自动在密文末尾附加 16 字节 AuthTag)
+            byte[] cipherTextWithTag = cipher.doFinal(plaintext.getBytes(StandardCharsets.UTF_8));
+
+            // 4. 拼接 Nonce + 密文+Tag 并 Base64 编码
+            byte[] payload = new byte[nonce.length + cipherTextWithTag.length];
+            System.arraycopy(nonce, 0, payload, 0, nonce.length);
+            System.arraycopy(cipherTextWithTag, 0, payload, nonce.length, cipherTextWithTag.length);
+
+            return java.util.Base64.getEncoder().encodeToString(payload);
+        } catch (Exception e) {
+            throw new RuntimeException("AES-GCM 加密失败", e);
+        }
+    }
+
+    /**
+     * 解密方法
+     * @param base64Payload Base64 编码的密文载荷
+     * @param base64Key     Base64 编码的对称密钥
+     * @return 解密后的明文字符串
+     */
+    public static String decrypt(String base64Payload, String base64Key) {
+        validateKey(base64Key);
+        try {
+            byte[] payload = java.util.Base64.getDecoder().decode(base64Payload);
+            byte[] key = java.util.Base64.getDecoder().decode(base64Key);
+
+            // 1. 校验长度: 至少包含 Nonce(12B) + Tag(16B)
+            if (payload.length < NONCE_LENGTH_BYTES + (TAG_LENGTH_BITS / 8)) {
+                throw new IllegalArgumentException("密文载荷长度异常，无法解析");
+            }
+
+            // 2. 拆分数据: 前12字节为 Nonce, 剩余为 密文+Tag
+            byte[] nonce = Arrays.copyOfRange(payload, 0, NONCE_LENGTH_BYTES);
+            byte[] cipherTextWithTag = Arrays.copyOfRange(payload, NONCE_LENGTH_BYTES, payload.length);
+
+            // 3. 初始化解密 Cipher
+            SecretKeySpec keySpec = new SecretKeySpec(key, "AES");
+            Cipher cipher = Cipher.getInstance(TRANSFORMATION);
+            GCMParameterSpec gcmSpec = new GCMParameterSpec(TAG_LENGTH_BITS, nonce);
+            cipher.init(Cipher.DECRYPT_MODE, keySpec, gcmSpec);
+
+            // 4. 执行解密 (自动验证 AuthTag, 失败则抛 AEADBadTagException)
+            byte[] plainText = cipher.doFinal(cipherTextWithTag);
+            return new String(plainText, StandardCharsets.UTF_8);
+        } catch (javax.crypto.AEADBadTagException e) {
+            throw new RuntimeException("解密失败: 密文被篡改或密钥/Nonce不匹配", e);
+        } catch (Exception e) {
+            throw new RuntimeException("AES-GCM 解密失败", e);
+        }
+    }
+
+    private static void validateKey(String base64Key) {
+        if (base64Key == null || base64Key.trim().isEmpty()) throw new IllegalArgumentException("密钥不能为空");
+        byte[] decoded = java.util.Base64.getDecoder().decode(base64Key);
+        if (decoded.length != 16 && decoded.length != 24 && decoded.length != 32) {
+            throw new IllegalArgumentException("密钥长度无效，Base64解码后必须为 16/24/32 字节");
+        }
+    }
+
+
+
+2.回调接口
+地址：
+https://aqh.foreseamall.com/fsmall_front_service/api/bjhq-healthcare-result.do
+https://aqh-uat.foreseamall.com/fsmall_front_service/api/bjhq-healthcare-result.do
+
+入参：
+{"data":"约定入参JSON字符串AES加密结果"}
+
+
+
+
+
+
+
